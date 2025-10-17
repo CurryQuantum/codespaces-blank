@@ -1,5 +1,7 @@
 import java.util.*;
-
+// ernest pedregosa delserieys
+// 10/16/2025
+//this class finds the best pet for you based on your name , favorit color and season
 public class PetSelector {
 
   public static void main(String[] args) {
